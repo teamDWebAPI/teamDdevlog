@@ -62,4 +62,4 @@
 ## 議事録関係
 ### meeting-logに議事録を保存
 
-- <a href="">2024/02/26</a>
+- <a href="https://github.com/teamDWebAPI/teamDdevlog/blob/main/meeting-log/240226-log.md">2024/02/26</a>
