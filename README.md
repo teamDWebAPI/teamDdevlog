@@ -63,6 +63,7 @@
 ### meeting-logに議事録を保存
 
 - <a href="https://github.com/teamDWebAPI/teamDdevlog/blob/main/meeting-log/240226-log.md">2024/02/26</a>
+- <a href="https://github.com/teamDWebAPI/teamDdevlog/blob/main/meeting-log/240227-log.md">2024/02/27</a>
 
 ## チームメンバー
 - [COCO](https://github.com/Taiga2022)
